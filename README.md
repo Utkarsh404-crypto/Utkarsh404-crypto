@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: Contribute more to Open Source projects and become a software developer
 - ⚡ Fun fact: I love to play chess :)
+<br />
+<br />
 
 ### Connect with me:
 
@@ -17,6 +19,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -34,8 +37,12 @@
 
 <br />
 <br />
+<br />
+<br />
 
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarsh404-crypto)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 
 ### 📕 Latest Blog Posts
 
