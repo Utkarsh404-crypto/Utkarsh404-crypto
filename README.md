@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<img height="500px" width="500px" src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
+<img height="500px" width="700px" src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
 
 
 ## I'm a Student!!
