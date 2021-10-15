@@ -5,7 +5,7 @@
 <br />
 <br />
 
-![animation](<img src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">)
+![animation]<img src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
 
 
 ## I'm a Student!!
