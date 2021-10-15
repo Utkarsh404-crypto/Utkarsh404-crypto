@@ -4,11 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 <br />
 <br />
-<br>
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/animation.gif)
-<br>
-<br>
 
 ## I'm a Student!!
 - ⚡ I am a coder...very close to become a 3 star coder at codechef
