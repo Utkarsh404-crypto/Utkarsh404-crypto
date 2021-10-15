@@ -3,9 +3,8 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 <br />
-<br />
 
-<img height="500px" width="700px" src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
+<img height="500px" width="750px" src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
 
 
 ## I'm a Student!!
