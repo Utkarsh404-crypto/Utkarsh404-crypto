@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 <br />
 
-<img height="350px" width="910px" src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
+<img height="350px" width="900px" src="https://user-images.githubusercontent.com/68241943/137467744-98b94a6e-88c4-4e31-b887-214c3e98bef6.gif">
 
 
 ## I'm a Student!!
