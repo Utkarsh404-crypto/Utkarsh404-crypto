@@ -33,7 +33,7 @@
 
 ## 🔢 Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh404-crypto&theme=tokyonight" alt="Utkarsh's contribution graph(ig u should refresh🧐! or come back later🐱‍💻)">
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Utkarsh404-crypto&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
 <img height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh404-crypto&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 </a>
